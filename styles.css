@@ -1,0 +1,29 @@
+/******Tag Selector*****/
+
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 30%;
+  border-color: Grey;
+  border-width: 5px;
+}
+img{
+  border-radius : 30%;
+}
+img:hover{
+  background-color: #456268;
+}
+h2{
+  color: #456268;
+}
+
+/*******Class Selector******/
+.hobby{
+  color: black;
+}
+#edu{
+  font-style: italic;
+}
